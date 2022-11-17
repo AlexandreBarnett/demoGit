@@ -7,3 +7,5 @@ Velo
 whoup<-c('sound', 'da', 'police')
 SOAD<-c('Angel', 'Deserve')
 NouvelleLigne
+boum
+slash
