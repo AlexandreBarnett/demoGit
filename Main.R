@@ -1,5 +1,7 @@
 Car<-c("Brand", "Type")
 Car
 
-Velo<-c("Marque", "Type")
+Velo<-c("Marque", "Type", "Vitesses")
 Velo
+
+whoup<-c('sound', 'da', 'police')
